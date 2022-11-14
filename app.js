@@ -78,6 +78,6 @@ document.getElementById('promoBtn').addEventListener('click' , function(){
 
     promoInput.value = '' ;
 
-})
+},  {once : true})
 
 
